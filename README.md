@@ -18,7 +18,7 @@ that they *may* have silly questions. It isn't a big deal- but there are a
 few things you should know before you jump in. Here we go...
 
 ## World Wide!
-The Node.js community is global. It is very important to realized that your mid 
+The Node.js community is global. It is very important to realize that your mid 
 afternoon crisis is happening at 3AM for others! There is no time-of-day that is 
 "best" to seek help.
 
